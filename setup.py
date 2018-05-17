@@ -3,12 +3,12 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-    name='django-versatileimagefield',
+    name='django-versatileimagefield-private',
     packages=find_packages(),
     version='1.9',
-    author=u'Jonathan Ellenberger',
+    author=u'Franco Alarcon',
     author_email='jonathan_ellenberger@wgbh.org',
-    url='http://github.com/respondcreate/django-versatileimagefield/',
+    url='https://github.com/FrancoAA/django-versatileimagefield/',
     license='MIT License, see LICENSE',
     description="A drop-in replacement for django's ImageField that provides "
                 "a flexible, intuitive and easily-extensible interface for "

@@ -1,6 +1,8 @@
 ==========================
-django-versatileimagefield
+django-versatileimagefield-private
 ==========================
+
+**NOTE**: THIS IS A CUSTOMIZED VERSION OF THE ORIGINAL PACKAGE ONLY INTENDED FOR MY PERSONAL USE. USE IT AT YOUR OWN RISK.
 
 .. image:: https://travis-ci.org/respondcreate/django-versatileimagefield.svg?branch=master
     :target: https://travis-ci.org/respondcreate/django-versatileimagefield
